@@ -5,7 +5,8 @@ developer by occupation, currently working in the net-zero business.
 Prior to that, he worked in the energy infrastructure business.
 He keeps a blog at [joefg.github.io](https://joefg.github.io).
 
-```
+<div align="center">
+<pre>
 ┌──────────────────────────────────────┐
 ├──────────────────────────────────────┤
 │                                      │
@@ -20,4 +21,5 @@ He keeps a blog at [joefg.github.io](https://joefg.github.io).
 │                                      │
 ├──────────────────────────────────────┤
 └──────────────────────────────────────┘
-```
+</pre>
+</div>
