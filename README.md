@@ -15,11 +15,8 @@ graduate consultants and software developers.
 turnkey template for using the Lume static site generator with the Deno
 JavaScript runtime.
 
-<br/>
-
 ---
 
-<br/>
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
