@@ -1,7 +1,7 @@
 <h1 align="center">joefg</h1>
 
 Joe is a [GIS](https://en.wikipedia.org/wiki/Geographic_information_system)
-developer by occupation, currently working in the net-zero business.
+developer by occupation, currently working in the decarbonisation business.
 Prior to that, he worked in the energy infrastructure business.
 He keeps a blog at [joefg.github.io](https://joefg.github.io).
 
@@ -17,9 +17,7 @@ JavaScript runtime.
 
 <h2 align="center">Contact Details</h2>
 
-He doesn't use social media. Send a follow request to
-[@joefg_](https://x.com/joefg_) on X. This is the only social media he makes
-available to the public, and he doesn't check it often.
+He doesn't use social media and does not respond to unsolicited e-mails.
 
 For project-related queries, please use the comments section in the project's
 repository or consult the project's website.
