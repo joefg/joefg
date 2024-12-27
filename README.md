@@ -2,7 +2,8 @@
 
 Joe is a [GIS](https://en.wikipedia.org/wiki/Geographic_information_system)
 developer by occupation, currently working in the decarbonisation business.
-Prior to that, he worked in the energy infrastructure business.
+Prior to that, he worked in the energy infrastructure business. He maintains
+a developer blog at [joefg.github.io](https://joefg.github.io).
 
 <h2 align="center">Selected Projects</h2>
 
