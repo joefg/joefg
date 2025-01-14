@@ -15,13 +15,6 @@ graduate consultants and software developers.
 turnkey template for using the Lume static site generator with the Deno
 JavaScript runtime.
 
-<h2 align="center">Contact Details</h2>
-
-He doesn't use social media and does not respond to unsolicited e-mails.
-
-For project-related queries, please use the comments section in the project's
-repository or consult the project's website.
-
 ---
 
 <div align="center">
