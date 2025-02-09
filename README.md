@@ -1,11 +1,8 @@
 <h1 align="center">joefg</h1>
 
 Joe is a [GIS](https://en.wikipedia.org/wiki/Geographic_information_system)
-developer by occupation who has worked in the decarbonisation
-and energy infrastructure businesses.
-
-He maintains
-a developer blog at [joefg.github.io](https://joefg.github.io).
+developer. He maintains a developer blog at
+[joefg.github.io](https://joefg.github.io).
 
 <h2 align="center">Selected Projects</h2>
 
