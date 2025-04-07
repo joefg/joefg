@@ -1,7 +1,6 @@
 <h1 align="center">joefg</h1>
 
-Joe is a [GIS](https://en.wikipedia.org/wiki/Geographic_information_system)
-developer. He maintains a developer blog at
+Joe is a software developer. He maintains a humble blog at
 [joefg.github.io](https://joefg.github.io).
 
 <h2 align="center">Selected Projects</h2>
