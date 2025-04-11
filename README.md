@@ -1,7 +1,15 @@
 <h1 align="center">joefg</h1>
 
-Joe is a software developer. He maintains a humble blog at
-[joefg.github.io](https://joefg.github.io).
+This is Joe's GitHub profile.
+
+<h2 align="center">Links</h2>
+
+<div align="center">
+<nav>
+    <a href="https://joefg.github.io">📝 Developer Blog</a> |
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSffUjNM2RaxsQpqvz5aDkoNh4XMAch20nKZjdA-xUQRw4QkHg/viewform?usp=sharing"> ️✉️ Contact Form</a>
+</nav>
+</div>
 
 <h2 align="center">Selected Projects</h2>
 
