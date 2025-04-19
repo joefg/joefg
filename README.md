@@ -1,9 +1,5 @@
 <h1 align="center">joefg</h1>
 
-This is Joe's GitHub profile.
-
-<h2 align="center">Links</h2>
-
 <div align="center">
 <nav>
     <a href="https://joefg.github.io">📝 Developer Blog</a> |
