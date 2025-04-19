@@ -9,6 +9,10 @@
 
 <h2 align="center">Selected Projects</h2>
 
+- [police-stats-tools](https://github.com/joefg/police-stats-tools) (2025) - a Python and
+SpatiaLite environment for accessing geospatial police force area crime data through QGIS
+or Jupyter notebooks.
+
 - [Git for Graduates](https://git-for-graduates.pages.dev) (2024) - a pocketable
 free guide to the effective use of the Git version control system, aimed at
 graduate consultants and software developers.
