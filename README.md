@@ -3,7 +3,7 @@
 <div align="center">
 <nav>
     <a href="https://joefg.github.io">📝 Developer Blog</a> |
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSffUjNM2RaxsQpqvz5aDkoNh4XMAch20nKZjdA-xUQRw4QkHg/viewform?usp=sharing"> ️✉️ Contact Form</a>
+    <a href="mailto:mr.jfg@proton.me">✉️ E-Mail</a>
 </nav>
 </div>
 
