@@ -2,7 +2,7 @@
 
 <div align="center">
 <nav>
-    <a href="https://joefg.github.io"><b>📝 Developer Blog</b></a> |
+    <a href="https://joefg.github.io"><b>📝 Blog</b></a> &bull;
     <a href="mailto:mr.jfg@proton.me"><b>✉️ E-Mail</b></a>
 </nav>
 </div>
