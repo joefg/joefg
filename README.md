@@ -3,6 +3,7 @@
 <div align="center">
 <nav>
     <a href="https://joefg.github.io"><b>📝 Blog</b></a> &bull;
+    <a href="https://x.com/joefg_"><b>🐦 𝕏</b></a> &bull;
     <a href="mailto:mr.jfg@proton.me"><b>✉️ E-Mail</b></a>
 </nav>
 </div>
