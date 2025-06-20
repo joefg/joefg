@@ -1,12 +1,6 @@
 <h1 align="center">joefg</h1>
 
-<div align="center">
-<nav>
-    <a href="https://joefg.github.io"><b>📝 Blog</b></a> &bull;
-    <a href="https://x.com/joefg_"><b>🐦 𝕏</b></a> &bull;
-    <a href="mailto:mr.jfg@proton.me"><b>✉️ E-Mail</b></a>
-</nav>
-</div>
+This is Joe's GitHub page.
 
 <h2 align="center">Selected Projects</h2>
 
