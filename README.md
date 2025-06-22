@@ -1,7 +1,5 @@
 <h1 align="center">joefg</h1>
 
-This is Joe's GitHub page.
-
 <h2 align="center">Selected Projects</h2>
 
 [**police-stats-tools**](https://github.com/joefg/police-stats-tools) (2025)
