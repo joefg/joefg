@@ -1,5 +1,12 @@
 <h1 align="center">joefg</h1>
 
+<div align="center">
+
+[Blog](https://joefg.pages.dev) &bull;
+[Links](https://jfg.name)
+
+</div>
+
 <h2 align="center">Selected Projects</h2>
 
 [**police-stats-tools**](https://github.com/joefg/police-stats-tools) (2025)
