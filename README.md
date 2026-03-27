@@ -17,11 +17,13 @@ Algorithms, concepts, and user experience are important.
 
 ### Where is your GitHub activity?
 
-I keep it private. Software should not be a spectator sport. Feel free to look at my repositories, however!
+I keep it private. Software development should not be a spectator sport.
+
+Feel free to look at my repositories, however!
 
 ### How do I contact you?
 
 You probably can't, sorry. I don't do much social media. There's a bit more on this available on
-his website's [colophon](https://jfg.name/colophon).
+my website's [colophon](https://jfg.name/colophon).
 
 If there's an issue on one of my projects, raise an issue there.
