@@ -12,8 +12,7 @@
 
 A lot of Python, a lot of SQL, some Bash, some JavaScript, some HTML, learning Zig and C.
 
-I'm a GIS and Computer Vision guy who does a little bit of web development. Languages aren't important.
-Algorithms, concepts, and user experience are important.
+Languages aren't important. Algorithms, concepts, and user experience are important.
 
 ### Where is your GitHub activity?
 
@@ -23,7 +22,7 @@ Feel free to look at my repositories, however!
 
 ### How do I contact you?
 
-You probably can't, sorry. I don't do much social media. There's a bit more on this available on
+You probably can't, sorry. I'm not very active on social media. There's a bit more on this subject available on
 my website's [colophon](https://jfg.name/colophon).
 
 If there's an issue on one of my projects, raise an issue there.
