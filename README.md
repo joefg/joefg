@@ -2,15 +2,19 @@
 
 ## What stack?
 
+<div align="center">
+
 | Environment | Technology                                            |
 | ----------- | ----------------------------------------------------- |
 | OS          | [CachyOS](https://cachyos.org/) or Ubuntu             |
 | Editor      | [nvim](https://neovim.org) or [zed](https://zed.dev/) |
-| Backend     | Python + FastAPI, JavaScript + Hono                   |
+| Backend     | Python + FastAPI or FastHTML, JavaScript + Hono       |
 | Frontend    | HTMX, Vue, React                                      |
 | Database    | PostgreSQL + PostGIS, SQLite + Spatialite             |
 | AI          | Ollama (Gemma4:26b)                                   |
 | Harness     | [pi](https://pi.dev)                                  |
+
+</div>
 
 The technology isn't important, what it's used for is more important.
 
