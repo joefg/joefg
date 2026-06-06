@@ -6,13 +6,14 @@
 
 | Environment | Technology                                            |
 | ----------- | ----------------------------------------------------- |
-| OS          | [CachyOS](https://cachyos.org/) or Ubuntu             |
+| OS          | [CachyOS](https://cachyos.org/) or Ubuntu Server      |
 | Editor      | [nvim](https://neovim.org) or [zed](https://zed.dev/) |
-| Backend     | Python + FastAPI or FastHTML, JavaScript + Hono       |
+| Backend     | Python + FastAPI, JavaScript + Hono                   |
 | Frontend    | HTMX, Vue, React                                      |
 | Database    | PostgreSQL + PostGIS, SQLite + Spatialite             |
-| AI          | Ollama (Gemma4:26b)                                   |
+| AI          | Ollama (Gemma4:12b)                                   |
 | Harness     | [pi](https://pi.dev)                                  |
+| Agent       | [Hermes](https://hermes-agent.nousresearch.com/)      |
 
 </div>
 
@@ -28,5 +29,9 @@ Feel free to look at my
 
 ---
 
+<div align="center">
+
 > “I saw the angel in the marble and carved until I set him free.”
 > -- Michelangelo
+
+</div>
