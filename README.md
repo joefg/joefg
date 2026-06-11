@@ -4,16 +4,15 @@
 
 <div align="center">
 
-| Environment | Technology                                            |
-| ----------- | ----------------------------------------------------- |
-| OS          | [CachyOS](https://cachyos.org/) or Ubuntu Server      |
-| Editor      | [nvim](https://neovim.org) or [zed](https://zed.dev/) |
-| Backend     | Python + FastAPI, JavaScript + Hono                   |
-| Frontend    | HTMX, Vue, React                                      |
-| Database    | PostgreSQL + PostGIS, SQLite + Spatialite             |
-| AI          | Ollama (Gemma4:12b)                                   |
-| Harness     | [pi](https://pi.dev)                                  |
-| Agent       | [Hermes](https://hermes-agent.nousresearch.com/)      |
+| Environment | Technology                                                             |
+| ----------- | ---------------------------------------------------------------------  |
+| OS          | [CachyOS](https://cachyos.org/) or Ubuntu Server                       |
+| Editor      | [nvim](https://neovim.org) or [zed](https://zed.dev/)                  |
+| Backend     | Python + FastAPI, JavaScript + Hono                                    |
+| Frontend    | React, Vue, HTMX                                                       |
+| Database    | PostgreSQL + PostGIS, SQLite + Spatialite                              |
+| AI          | Ollama (Gemma4:12b or Qwen3.5:9b)                                      |
+| Harness     | [pi](https://pi.dev), [Hermes](https://hermes-agent.nousresearch.com/) |
 
 </div>
 
