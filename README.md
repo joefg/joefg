@@ -1,3 +1,5 @@
+---
+
 <div align="center">
 
 “I saw the angel in the marble and carved until I set him free.” -- Michelangelo
@@ -11,3 +13,11 @@
 </nav>
 
 </div>
+
+---
+
+<details>
+  <summary>Why is my activity hidden?</summary>
+  Software development should not be a spectator sport. Feel free to look at my gists
+  and repositories, however!
+</details>
